@@ -58,7 +58,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": 7,\r\n    \"body\": \"Comment 7\",\r\n    \"postId\": 1\r\n}",
+							"raw": "{\r\n    \"id\": 8,\r\n    \"body\": \"Comment 8\",\r\n    \"postId\": 1\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
